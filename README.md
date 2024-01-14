@@ -1,1 +1,1 @@
-# MixCopilot-release
+# MiXAI-release
